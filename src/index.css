@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#messageOne{
+  /* max-width: 300px; */
+  margin-right: auto ;
+  margin-bottom:2px ;
+  max-width: 24rem;
+  display: inline-block;
+  background: rgb(219 234 254);
+  color: rgb(29 78 216);
+  font-size: 0.875rem; 
+  line-height: 1.25rem;
+  padding: 0px 0.5rem 0.25rem 0.5rem ;
+  border-radius: 0.375rem;
+
+  @media (min-width: 768px) { max-width: 28rem ; }
+
+}
+
+#messageTwo{
+  /* max-width: 300px; */
+  margin-left: auto ;
+  margin-bottom:2px ;
+
+  max-width: 24rem;
+  display: inline-block;
+  background: rgb(29 78 216);
+  color:rgb(219 234 254) ;
+  font-size: 0.875rem; 
+  line-height: 1.25rem;
+  padding: 0px 0.5rem 0.25rem 0.5rem ;
+  border-radius: 0.375rem;
+
+  @media (min-width: 768px) { max-width: 28rem ; }
+
+}
