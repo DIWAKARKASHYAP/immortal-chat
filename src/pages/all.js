@@ -5,7 +5,7 @@ import Button from '@mui/material/Button';
 function All() {
   return (
     <>
-          <div className=" bg-gradient-to-r from-blue-400 to-teal-200   h-screen w-full pt-16">
+          <div className="  bg-[url('https://wallpapers.com/images/hd/luminous-red-anonymous-2wrm4j7avzuqqm4d.jpg')] bg-no-repeat bg-cover h-screen w-full pt-16 pb-1">
         <div className="  m-12  flex flex-wrap items-center justify-center">
 
     <div className=' p-10'>               

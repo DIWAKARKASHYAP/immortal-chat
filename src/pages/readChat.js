@@ -108,12 +108,12 @@ function ReadChat() {
     
     return (
       <>
-        <div className=" bg-gradient-to-r from-blue-400 to-teal-200    w-full pt-16">
+        <div className=" bg-gradient-to-r from-blue-400 to-teal-200    w-full pt-16 pb-1">
           <div className="  m-12 sm:border-2 pt-6 p-4 sm:p-8 bg-white border-sky-50 bg-black/50 rounded-xl backdrop-blur text-white ">
             <div className=" text-5xl capitalize text-red-100 font-semibold font-mono">
-              create chat box{" "}
+              Read Chat{" "}
             </div>
-            <div>0x83cc101192b032CD1D465D48Cd20BA4318aaCD64</div>
+            <div></div>
 
             {/* <div>{read} </div> */}
             <div>Write ChatAddress</div>

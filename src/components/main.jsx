@@ -16,7 +16,7 @@ function Main() {
   return (
 
     <div>
-      <div className=" bg-gradient-to-r from-blue-600 to-teal-200   h-screen w-full pt-16">
+      <div className=" bg-[url('https://wallpapers.com/images/hd/luminous-red-anonymous-2wrm4j7avzuqqm4d.jpg')] bg-no-repeat bg-cover  w-full pt-16 pb-1">
         <div className="  m-10">
           <div className=" block mt-6 sm:mt-6 sm:ml-6 sm:mr-6 sm:flex    border-black">
             <div className="  max-w-screen-xl  relative left-1/2 -translate-x-1/2  pb-10  text-gray-300">

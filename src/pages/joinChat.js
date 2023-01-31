@@ -172,7 +172,7 @@ function JoinChat() {
             <div className=" bg-gradient-to-r from-blue-400 to-teal-200    w-full pt-16 m-0 pb-5 ">
                 <div className="  m-12 sm:border-2 pt-6 p-4 sm:p-8 bg-white border-sky-50 bg-black/50 rounded-xl backdrop-blur text-white ">
                     <div className=" text-5xl capitalize text-red-100 font-semibold font-mono">
-                        create chat box{" "}
+                        Join Chat{" "}
                     </div>
                     <div></div>
                     <div className=" flex ">

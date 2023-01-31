@@ -29,7 +29,7 @@ const Navbar = () => {
   return (
     <>
 
-<div className=" bg-slate-800 text-white fixed top-0 w-full p-4   ">
+<div className="  bg-black text-white fixed top-0 w-full p-4   ">
         {/* <div className="max-w-screen-lg relative left-1/2 -translate-x-1/2 "> */}
           <div className="flex  justify-between items-center text-lg  h-full">
             <div className="flex  ">
