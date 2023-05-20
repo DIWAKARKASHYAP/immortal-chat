@@ -30,32 +30,26 @@ function Main() {
                     <br></br>
                     <p>please read carefully</p>
                     <p>
-                      The main moto of this website is to chat between two
-                      person anonymously and when ever you need your chat , you
-                      can easily chat with your chat address , remember if you
-                      loose your chat address not only you but both will never
-                      access the chat.
+                     Our website enables anonymous chat between individuals. You can easily access your chat using a unique chat address. However, please note that if you lose your chat address, neither you nor the other person will be able to retrieve the chat.
                     </p>
                     <br />
                     <p>
-                      To use the whole system , you require only two things:
-                    </p>
+To utilize the entire system, you only need two things:
+</p>
                       <ul className="list-decimal pl-4">
-                        <li>metamask is installed in your browser and</li>
+                        <li>A browser with Metamask installed.</li>
                         <li>
-                          you have some gorile ethers in your metamask
-                          account .
+                          A sufficient amount of Gorile ethers in your Metamask account.
                         </li>
                       </ul>
                     <br />
-                    you can only do three things in this website :-
+                    On this website, you have the ability to perform three actions:
                     <ul className="list-disc pl-4">
-                      <li>you can create a chatbox for own use </li>
+                      <li>Create a personal chatbox for your own use </li>
                       <li>
-                        if you have chat address ,no meter its your or somebody
-                        else you have only read access to their chat
+                       If you have a chat address, you can perform any task if it belongs to you. However, if the chat address belongs to someone else, you will only have read access to the chat.
                       </li>
-                      <li>you can only messege in your chat</li>
+                      <li>You are only able to send messages within your own chat.</li>
                     </ul>
                   </div>
                   <div className="font-light">
